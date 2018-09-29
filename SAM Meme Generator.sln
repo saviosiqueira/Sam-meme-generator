@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAM Meme Generator", "SAM Meme Generator\SAM Meme Generator.csproj", "{7D65B0B0-A3CF-4953-8C4A-117CB2B38058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D65B0B0-A3CF-4953-8C4A-117CB2B38058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D65B0B0-A3CF-4953-8C4A-117CB2B38058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D65B0B0-A3CF-4953-8C4A-117CB2B38058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D65B0B0-A3CF-4953-8C4A-117CB2B38058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9E7D755-E718-4864-B2D8-CD78960C8925}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\savio\Desktop\SAM Meme Generator\SAM Meme Generator\bin\Release\SAM Meme Generator.exe.config
+C:\Users\savio\Desktop\SAM Meme Generator\SAM Meme Generator\bin\Release\SAM Meme Generator.exe
+C:\Users\savio\Desktop\SAM Meme Generator\SAM Meme Generator\bin\Release\SAM Meme Generator.pdb
+C:\Users\savio\Desktop\SAM Meme Generator\SAM Meme Generator\obj\Release\SAM_Meme_Generator.FormGerador.resources
+C:\Users\savio\Desktop\SAM Meme Generator\SAM Meme Generator\obj\Release\SAM_Meme_Generator.Properties.Resources.resources
+C:\Users\savio\Desktop\SAM Meme Generator\SAM Meme Generator\obj\Release\SAM_Meme_Generator.TelaResultado.resources
+C:\Users\savio\Desktop\SAM Meme Generator\SAM Meme Generator\obj\Release\SAM Meme Generator.csproj.GenerateResource.cache
+C:\Users\savio\Desktop\SAM Meme Generator\SAM Meme Generator\obj\Release\SAM Meme Generator.csproj.CoreCompileInputs.cache
+C:\Users\savio\Desktop\SAM Meme Generator\SAM Meme Generator\obj\Release\SAM Meme Generator.exe
+C:\Users\savio\Desktop\SAM Meme Generator\SAM Meme Generator\obj\Release\SAM Meme Generator.pdb
